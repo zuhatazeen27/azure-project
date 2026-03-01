@@ -1,0 +1,9 @@
+{
+	"name": "zuhadfazureproject1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ace4c97a-0fe7-4e27-97bb-c68af595d42e",
+		"tenantId": "ecc43911-2c85-4871-b0b0-624c6d62ad75"
+	}
+}
