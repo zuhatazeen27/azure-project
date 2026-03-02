@@ -1,0 +1,9 @@
+{
+	"name": "zuhaazurefactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "348dce1a-3c2f-44f4-8696-f383bfcb56e2",
+		"tenantId": "ecc43911-2c85-4871-b0b0-624c6d62ad75"
+	}
+}
